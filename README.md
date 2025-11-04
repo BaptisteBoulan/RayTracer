@@ -9,7 +9,7 @@ A basic OpenGL project for ray tracing.
 ### Clone the repository
 ```bash
 git clone https://github.com/BaptisteBoulan/RayTracing.git
-cd minimalRenderze
+cd RayTracing
 ```
 
 ### First-time compilation
